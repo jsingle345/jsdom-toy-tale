@@ -87,7 +87,7 @@
     {
       "name": "one more",
       "image": "www.google.com",
-      "likes": 0,
+      "likes": 2,
       "id": 15
     },
     {
@@ -99,8 +99,32 @@
     {
       "name": "weird ",
       "image": "I know",
-      "likes": 1,
+      "likes": 2,
       "id": 17
+    },
+    {
+      "name": "Crazy",
+      "image": "IDK",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "name": "Hmmmmm",
+      "image": "Weird",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "name": "Joshua",
+      "image": "www.first.com",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "name": "Final Person",
+      "image": "www.try.com",
+      "likes": 2,
+      "id": 21
     }
   ]
 }
